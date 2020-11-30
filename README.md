@@ -21,6 +21,8 @@ for i in range(3):
 
 ![](einfache_schleife.png)
 
+## komplexere Schleifen
+
 ```python
 for i in range(10):
     if i > 5:
