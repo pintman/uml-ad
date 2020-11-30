@@ -37,7 +37,7 @@ for i in range(10):
 
 ![](akt-v2.png)
 
-Quelle: Wikipedia
+(Quelle: [Wikipedia: Aktivitätsdiagramm](https://de.wikipedia.org/wiki/Aktivit%C3%A4tsdiagramm))
 
 ## Tools
 
