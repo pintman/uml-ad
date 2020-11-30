@@ -37,7 +37,6 @@ for i in range(10):
 
 ![](akt-v2.png)
 
-(Quelle: [Wikipedia: Aktivitätsdiagramm](https://de.wikipedia.org/wiki/Aktivit%C3%A4tsdiagramm))
 
 ## Tools
 
@@ -53,3 +52,7 @@ for i in range(10):
   - 2015 Winter
 
 Pro Aufgabe 23,5 Minuten (in der Prüfung)
+
+## Quellen
+
+Abbildungen aus dem Artikel [Aktivitätsdiagramm](https://de.wikipedia.org/wiki/Aktivit%C3%A4tsdiagramm) bei Wikipedia.
