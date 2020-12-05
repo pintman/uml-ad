@@ -48,6 +48,7 @@ for i in range(10):
 ## Übungen aus IHK-Prüfungen
 
 - [Übungen](https://tbseins-my.sharepoint.com/:f:/g/personal/bakera_tbs1_de/EvgRkzwZmxRCqywrOTtyAmIBf8JFXuq3LaTmIjnjFlBDkg?e=bJ2k8F)
+  - (2020 Winter)
   - 2016 Winter
   - 2015 Winter
 
